@@ -1,6 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: hsl(0,100%, 50%);
+    color: #ffff;
+    
     
 }
 .letter{
