@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.letter{
+    margin: 20px 50px;
+    height: 100vh;
+    
+    
+}
+
+.parent{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left {
+     margin: 20px;
+}
+.left h1{
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+color: rgb(25, 0, 255);
+border-bottom: 2px solid blue ;
+text-indent: 2px;
+}
+.right{
+    margin: auto 10px;
+}
+
+.To{
+    margin-top: 30px;
+}
+.Subject{
+    text-align: center;
+    margin-bottom: 30px;
+   
+}
+.mainpara p{
+    line-height: 30px;
+    font-size: 20px;
+    font-style: italic;
+}
+.thanking{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.last-name{
+    display: flex;
+    justify-content: end;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
